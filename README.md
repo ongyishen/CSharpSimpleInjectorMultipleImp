@@ -22,7 +22,7 @@ https://docs.simpleinjector.org/en/latest/
 
 ## Screenshots
 
-<img src="https://github.com/ongyishen/CSharpSimpleInjectorMultipleImp/blob/main/Sample.gif?raw=true" width="200" height="400" />
+<img src="https://github.com/ongyishen/CSharpSimpleInjectorMultipleImp/blob/main/Sample.gif?raw=true"  />
 
 
 
