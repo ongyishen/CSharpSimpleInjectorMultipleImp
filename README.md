@@ -1,6 +1,11 @@
 # CSharpSimpleInjectorMultipleImp
 CSharp simple injector register multiple implementations with single interface.
 
+Get your **free** Apple Stock when sign up & deposit to Tiger Brokers 
+[ClickHere](https://www.tigerbrokers.com.sg/activity/forapp/invitflow-intl/signup.html?template=invite202011&lang=en_US&invite=E9WV2L)
+
+Use my referral link https://crypto.com/app/gmdvtgv38s to sign up for **Crypto.com** and we both get **$25 USD** :)
+
 You can register multiple implementation of the same interface with using the RegisterCollection method.
 
 You can explicitly resolve your IInterface1 implementations with GetAllInstances
